@@ -82,7 +82,7 @@ Provides optimized evaluation metrics.
 
 ---
 
-## 📂 Folders
+## Folders
 * **`chess_images/`**: Contains PNG files for all chess pieces used by `chess_main.py` for the graphical interface.
 
 
